@@ -109,7 +109,7 @@ The free version covers the fundamentals. The full pack covers the entire stack:
 | Continue.dev | `.continuerules` | ✓ Same content, rename file |
 | GitHub Copilot | `copilot-instructions.md` | ✓ Same content |
 
-Need to convert between formats? Use **[RuleShift](https://ruleshift.dev)** - free, open source.
+Need to convert between formats? Use **[0toprod]([https://ruleshift.dev](https://0toprod.dev/convert))** - free, open source.
 
 ## Compatibility
 
